@@ -18,5 +18,5 @@ $ cal
 ### App Walk-though
 `
 
-<img src="https://recordit.co/Cu6HmvaVwL" width=200><br>
+<img src="http://g.recordit.co/Cu6HmvaVwL.gif" width=200><br>
 
